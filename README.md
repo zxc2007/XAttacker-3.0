@@ -21,7 +21,7 @@ All Credits To The Org Owners i Remade The API and added New Exploits To Joomla 
 <br>• Admin Panel Finder
 <br>• Added More Colors
 <br>• Added a Joomla File Upload Exploit
-<br>• More Coming Soon 
+<br>• More Coming Soon </br>
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
