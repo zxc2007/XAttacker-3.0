@@ -12,7 +12,7 @@ Please Read Setup.txt
 
 
 <h2>X Attacker</h2>
-<img src="https://i.imgur.com/DxZyQit.jpg" data-canonical-src="https://i.imgur.com/DxZyQit.jpg" style="max-width:100%;">
+<img src="https://imgur.com/Z2chTFn.jpg" data-canonical-src="https://imgur.com/Z2chTFn.jpg" style="max-width:100%;">
 # change log : 
 
 [+] Uploadify > Word Press Exploit 2018 [+] wpsc > Wordpress Exploit 2019 [+] Fixed API Pulls More Vuln SItes Off More Search eng [+] added Zone-h Scraper + Private Tool + Admin Panel Finder + Other Defacing Sites to Scrape [+] Added More Colors [+] Added a Joomla File Upload Exploit [+] More Coming Soon 
