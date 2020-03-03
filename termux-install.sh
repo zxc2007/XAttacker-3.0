@@ -1,4 +1,7 @@
 pkg install -y perl make
+apt-get install python
+pip install requests
+pip install colorama
 wget http://search.cpan.org/CPAN/authors/id/O/OA/OALDERS/HTTP-Message-6.14.tar.gz
 tar zxf HTTP-Message-6.14.tar.gz
 cd HTTP-Message-6.14/
