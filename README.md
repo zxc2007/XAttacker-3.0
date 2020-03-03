@@ -10,7 +10,7 @@ All Credits To The Org Owners i Remade The API and added New Exploits To Joomla 
 <img src="https://imgur.com/Z2chTFn.jpg" data-canonical-src="https://imgur.com/Z2chTFn.jpg" style="max-width:100%;">
 
 <h2>Video</h2>
-<a href="https://www.youtube.com/watch?v=NC4_5Q9t-bA><img src="https://i.imgur.com/5B96biH.png" style="max-width:100%;"></a>
+<a href="https://youtu.be/NC4_5Q9t-bA<img src="https://i.imgur.com/5B96biH.png" style="max-width:100%;"></a>
 
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
