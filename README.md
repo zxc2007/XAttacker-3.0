@@ -1,13 +1,16 @@
 <h1>XAttacker Tool 3.0</h1>
-<p><a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/XAttacker-3.0-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/XAttacker-3.0-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
-<a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
-<a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
+<p><a href="https://github.com/Nano1337824/XAttacker-3.0V-Remade/"><img src="https://img.shields.io/badge/XAttacker-3.0-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/XAttacker-3.0-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
+<a href="https://github.com/Nano1337824/XAttacker-3.0V-Remade/"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
+<a href="https://github.com/Nano1337824/XAttacker-3.0V-Remade/"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
 X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | Sends | Deface | cPanels | Databases
 
 All Credits To The Org Owners i Remade The API and added New Exploits To Joomla And Wordpress,
 
 <img src="https://imgur.com/Z2chTFn.jpg" data-canonical-src="https://imgur.com/Z2chTFn.jpg" style="max-width:100%;">
+
+<h2>Video</h2>
+<a href="https://www.youtube.com/watch?v=NC4_5Q9t-bA><img src="https://i.imgur.com/5B96biH.png" style="max-width:100%;"></a>
 
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
