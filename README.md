@@ -10,18 +10,6 @@ All Credits To The Org Owners i Remade The API and added New Exploits To Joomla 
 <img src="https://imgur.com/Z2chTFn.jpg" data-canonical-src="https://imgur.com/Z2chTFn.jpg" style="max-width:100%;">
 
 
-<h2>Version</h2>
-<strong>Current version is 3.0</strong>
-<strong>What's New </strong>
-<br>• Uploadify > Word Press Exploit 2018
-<br>• wpsc > Wordpress Exploit 2019 
-<br>• Fixed API Pulls More Vuln Sites Off More Search eng
-<br>• added Zone-h Scraper
-<br>• added Private Tool
-<br>• Admin Panel Finder
-<br>• Added More Colors
-<br>• Added a Joomla File Upload Exploit
-<br>• More Coming Soon </br>
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
@@ -60,3 +48,17 @@ Open CMD and type the following commands:
 cd Desktop/XAttacker-master/
 perl XAttacker.pl
 ```
+
+
+<h2>Version</h2>
+<strong>Current version is 3.0</strong>
+<strong>What's New </strong>
+<br>• Uploadify > Word Press Exploit 2018
+<br>• wpsc > Wordpress Exploit 2019 
+<br>• Fixed API Pulls More Vuln Sites Off More Search eng
+<br>• added Zone-h Scraper
+<br>• added Private Tool
+<br>• Admin Panel Finder
+<br>• Added More Colors
+<br>• Added a Joomla File Upload Exploit
+<br>• More Coming Soon </br>
