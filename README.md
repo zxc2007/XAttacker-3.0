@@ -10,10 +10,4 @@ Please Read Setup.txt
 
 # change log : 
 
-// [+] Uploadify > Word Press Exploit 2018
-// [+] wpsc > Wordpress Exploit 2019
-// [+] Fixed API Pulls More Vuln SItes Off More Search eng
-// [+] added Zone-h Scraper + Private Tool + Admin Panel Finder + Other Defacing Sites to Scrape
-// [+] Added More Colors
-// [+] Added a Joomla File Upload Exploit
-// [+] More Coming Soon 
+[+] Uploadify > Word Press Exploit 2018 [+] wpsc > Wordpress Exploit 2019 [+] Fixed API Pulls More Vuln SItes Off More Search eng [+] added Zone-h Scraper + Private Tool + Admin Panel Finder + Other Defacing Sites to Scrape [+] Added More Colors [+] Added a Joomla File Upload Exploit [+] More Coming Soon 
