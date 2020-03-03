@@ -18,6 +18,8 @@ All Credits To The Org Owners i Remade The API and added New Exploits To Joomla 
 ```bash
 apt-get install python
 apt-get install python-pip
+pip install requests
+pip install colorama
 git clone https://github.com/Moham3dRiahi/XAttacker.git
 cd XAttacker
 perl XAttacker.pl
@@ -32,6 +34,8 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 ```bash
 apt-get install python
 apt-get install python-pip
+pip install requests
+pip install colorama
 git clone https://github.com/Moham3dRiahi/XAttacker.git
 cd XAttacker
 chmod +x termux-install.sh
