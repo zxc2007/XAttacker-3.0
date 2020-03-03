@@ -6,14 +6,12 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | Sends | Deface | cPanels | Databases
 
 All Credits To The Org Owners i Remade The API and added New Exploits To Joomla And Wordpress,
-Please Read Setup.txt
-
 
 <img src="https://imgur.com/Z2chTFn.jpg" data-canonical-src="https://imgur.com/Z2chTFn.jpg" style="max-width:100%;">
 
 
 <h2>Version</h2>
-<strong>Current version is 2.3</strong>
+<strong>Current version is 3.0</strong>
 <strong>What's New </strong>
 <br>• Uploadify > Word Press Exploit 2018
 <br>• wpsc > Wordpress Exploit 2019 
@@ -24,3 +22,41 @@ Please Read Setup.txt
 <br>• Added More Colors
 <br>• Added a Joomla File Upload Exploit
 <br>• More Coming Soon 
+## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+
+```bash
+apt-get install python
+apt-get install python-pip
+git clone https://github.com/Moham3dRiahi/XAttacker.git
+cd XAttacker
+perl XAttacker.pl
+```
+
+Follow This Video [SSTec Tutorials](https://www.youtube.com/watch?v=ckHIm4-_Zbs)
+
+## Installation [Android](https://wikipedia.org/wiki/Android) [![alt tag](https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://fr.wikipedia.org/wiki/Android)
+
+Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
+
+```bash
+apt-get install python
+apt-get install python-pip
+git clone https://github.com/Moham3dRiahi/XAttacker.git
+cd XAttacker
+chmod +x termux-install.sh
+bash termux-install.sh
+```
+
+Follow This Video [Psyco Tutorials](https://www.youtube.com/watch?v=3QezrdBW1D8)
+
+## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
+```bash
+Download python
+Downlaod pip
+Download Perl
+Download XAttacker
+Extract XAttacker into Desktop
+Open CMD and type the following commands:
+cd Desktop/XAttacker-master/
+perl XAttacker.pl
+```
