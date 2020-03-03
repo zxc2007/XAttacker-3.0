@@ -24,7 +24,7 @@ cd XAttacker
 perl XAttacker.pl
 ```
 
-Follow This Video [SSTec Tutorials](https://www.youtube.com/watch?v=ckHIm4-_Zbs)
+Follow This Video [SSTec Tutorials](https://youtu.be/3S-R3c-v-LI)
 
 ## Installation [Android](https://wikipedia.org/wiki/Android) [![alt tag](https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://fr.wikipedia.org/wiki/Android)
 
@@ -41,7 +41,7 @@ chmod +x termux-install.sh
 bash termux-install.sh
 ```
 
-Follow This Video [Psyco Tutorials](https://www.youtube.com/watch?v=3QezrdBW1D8)
+Follow This Video [Psyco Tutorials](https://youtu.be/3S-R3c-v-LI)
 
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 ```bash
