@@ -68,3 +68,8 @@ perl XAttacker.pl
 <br>• Added More Colors
 <br>• Added a Joomla File Upload Exploit
 <br>• More Coming Soon </br>
+
+<h2>WARNING</h2>
+<strong>Warning Scanning too many servers in a short period may lead your internet provider to shut it down </strong>
+
+<img src="https://imgur.com/38FhaWg.jpg" data-canonical-src="https://imgur.com/38FhaWg.jpg" style="max-width:100%;">
